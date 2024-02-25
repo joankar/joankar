@@ -1,4 +1,6 @@
-![Text alternativ](me.gif)
+<p align="center">
+  <img width="800" height="400" src="me.gif" alt="Introduction">
+</p>
 <h1 align="center">Hi 👋, I'm Raluca</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/20/36/4f/20364f89675f128c63fb4e86c85e372b.gif"
