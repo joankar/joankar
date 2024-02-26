@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="400" src="me.gif" alt="Introduction">
+  <img width="800" height="400" src="Raluca.gif" alt="Introduction">
 </p>
 <h2 tabindex="-1" dir="auto">
   <a id="user-content-introduction" class="anchor" aria-hidden="true" tabindex="-1" href="#introduction">
