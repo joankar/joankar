@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joankar&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 <h2 tabindex="-1" dir="auto">
   <a id="user-content-introduction" class="anchor" aria-hidden="true" tabindex="-1" href="#introduction">
   </a>
@@ -11,7 +12,7 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/10/2c/89/102c8909da6296957b0ff160a5210f52.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joankar&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 
 - 📫 How to reach me **ralucaioana.manolache@gmail.com**
 
