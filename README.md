@@ -1,11 +1,11 @@
-<p align="center">
-  <img width="800" height="400" src="Raluca.gif" alt="Introduction">
-</p>
 <h2 tabindex="-1" dir="auto">
   <a id="user-content-introduction" class="anchor" aria-hidden="true" tabindex="-1" href="#introduction">
   </a>
   Introduction
 </h2>
+<p align="center">
+  <img width="800" height="400" src="Raluca.gif" alt="Introduction">
+</p>
 <h1 align="center">Hi 👋, I'm Raluca</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/10/2c/89/102c8909da6296957b0ff160a5210f52.gif">
